@@ -1,4 +1,4 @@
-# splashkit-gui
+# SplashKit-GUI
 SplashKit Graphical User Interface
 
 This program will install SplashKit in single click. Following applications will be install along with SplashKit SDK:
